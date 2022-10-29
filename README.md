@@ -10,4 +10,4 @@ GAME RULES:
 - Players can set the winning score, so that they can change the predefined score of 100.
 - The player looses his current score when one of the dice is a 1.
 
-*/ 
+*/  
